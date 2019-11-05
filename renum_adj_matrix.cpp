@@ -7,8 +7,6 @@
 #include <condition_variable>
 #include <queue>
 #include <chrono>
-#include <filesystem>
-#include <exception>
 #include <atomic>
 
 // Read from a file in the form of a adjacency matrix into a binary string.
